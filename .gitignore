@@ -1,1 +1,5 @@
 .env
+/venv/
+FlavorBible.pdf
+flavor_bible_full.csv
+FlavorBible_extracted.txt

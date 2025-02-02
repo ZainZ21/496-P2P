@@ -1,0 +1,21 @@
+Ingredient,Taste,Function,Weight,Volume,Pairings
+HONEY,sweet,heating,"medium, heavy","moderate, loud","ALMONDS, APPLE, CINNAMON"
+GINGER,bitter,heating,"light, dry","moderate, loud","CHILI PEPPER, ONION, HONEY"
+CUCUMBER,sweet,cooling,"light, crisp","mild, subtle","TOMATO, YOGURT, ONION, LEMON"
+TURMERIC,bitter,heating,"medium, dry","moderate, subtle","BLACK PEPPER, GINGER, CORIANDER"
+APPLE,"sweet, sour",cooling,"light, crisp","mild, subtle",CINNAMON
+CHILI PEPPER,bitter,heating,"light, sharp","loud, intense","TOMATO, ONION, CORIANDER"
+YOGURT,sour,cooling,"medium, creamy","mild, moderate","CUCUMBER, HONEY"
+BASIL,bitter,cooling,"light, airy","mild, subtle","TOMATO, LEMON"
+ALMONDS,sweet,neutral,"medium, dense","moderate, subtle",HONEY
+CINNAMON,bitter,heating,"light, dry","moderate, warm",APPLE
+SALMON,umami,neutral,"medium, flaky","moderate, subtle","LEMON, AVOCADO"
+MUSHROOM,umami,neutral,"light, spongy","mild, subtle","ONION, TOMATO"
+LEMON,sour,cooling,"light, crisp","mild, bright",BASIL
+BEEF,umami,heating,"heavy, dense","loud, robust","ONION, POTATO, TOMATO, MUSHROOM"
+TOMATO,"sweet, sour, umami",cooling,"light, juicy","moderate, bright","BASIL, ONION, CHILI PEPPER"
+CORIANDER,bitter,cooling,"light, airy","mild, subtle","TOMATO, ONION, CHILI PEPPER, YOGURT, AVOCADO"
+AVOCADO,umami,cooling,"medium, smooth","moderate, subtle","TOMATO, ONION, CORIANDER, CHILI PEPPER"
+BLACK PEPPER,"pungent, spicy",heating,"light, gritty","moderate, sharp","ONION, LEMON, TOMATO, POTATO"
+ONION,sweet,heating,"medium, dense","moderate, strong","TOMATO, CHILI PEPPER, BEEF, MUSHROOM"
+POTATO,"starchy, neutral",warming,"heavy, dense","moderate, filling",ONION
